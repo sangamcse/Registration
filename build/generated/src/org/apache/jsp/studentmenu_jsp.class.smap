@@ -1,0 +1,22 @@
+SMAP
+studentmenu_jsp.java
+JSP
+*S JSP
+*F
++ 0 studentmenu.jsp
+studentmenu.jsp
++ 1 header.jsp
+file/header.jsp
+*L
+1,5:50
+5#1,14:55
+5#0,43:69
+48,3:113
+50,14:116
+64,8:131
+71,3:139
+74,3:142,3
+77,4:151
+81,6:156
+86,9:162
+*E
